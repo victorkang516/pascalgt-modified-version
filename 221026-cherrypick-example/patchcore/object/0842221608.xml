@@ -1,0 +1,26 @@
+<annotation>
+	<folder>object</folder>
+	<filename>0842221608.png</filename>
+	<path>\\mypesc0pcit004\Temp\221026-cherrypick\patchcore\object\0842221608.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1650</width>
+		<height>830</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1403</xmin>
+			<ymin>83</ymin>
+			<xmax>1550</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

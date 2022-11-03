@@ -1,0 +1,26 @@
+<annotation>
+	<folder>u1_damage</folder>
+	<filename>1118301213.png</filename>
+	<path>\\mypesc0pcit004\Temp\221026-cherrypick\patchcore\u1_damage\1118301213.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1650</width>
+		<height>830</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>u1_damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1104</xmin>
+			<ymin>62</ymin>
+			<xmax>1391</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

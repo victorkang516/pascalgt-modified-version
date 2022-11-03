@@ -1,0 +1,26 @@
+<annotation>
+  <folder>bb_x</folder>
+  <filename>1102191504.png</filename>
+  <path>C:\Temp\221026-cherrypick\confirm\bb_x\1102191504.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1650</width>
+    <height>830</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bb_x</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>706</xmin>
+      <ymin>220</ymin>
+      <xmax>962</xmax>
+      <ymax>507</ymax>
+    </bndbox>
+  </object>
+</annotation>
