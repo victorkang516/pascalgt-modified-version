@@ -5,13 +5,13 @@ https://github.com/DaikiTanak/pascalgt
 
 # What have been modified in this script
 
-<h2>Read all files under the path hierachy</h2>
+Read all files under the path hierachy
 
 ```
 files = path_source_xml_dir.glob('**/*.xml')
 ```
 
-<h2>Read list of class_name (labels) from a yaml file </h2>
+Read list of class_name (labels) from a yaml file
 
 ```
 pascal2gt.run(
