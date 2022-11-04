@@ -1,17 +1,17 @@
 # pascalgt-modified-version
 
-Original script credit to:
+Original script:
 https://github.com/DaikiTanak/pascalgt
 
 # What have been modified in this script
 
-I added this line of code in the run() function, which will search all the xml files under the hierachy/folder.
+<h2>Read all files under the path hierachy</h2>
 
 ```
 files = path_source_xml_dir.glob('**/*.xml')
 ```
 
-I also added another feature which the script read the list of label classes from a .yaml file.
+<h2>Read list of class_name (labels) from a yaml file </h2>
 
 ```
 pascal2gt.run(
