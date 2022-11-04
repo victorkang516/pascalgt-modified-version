@@ -70,7 +70,6 @@ class Pascal2GT:
         for xml in list_xml:
             output_dict = {}
 
-            folder = xml.find("folder").text
             filename = xml.find("filename").text
             size_object = xml.find("size")
             image_height = int(size_object.find("height").text)
