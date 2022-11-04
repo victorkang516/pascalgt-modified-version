@@ -11,8 +11,8 @@ if __name__ == '__main__':
     '''
 
     pascal2gt = Pascal2GT(
-        project_name = "labeling-job-m00", 
-        s3_path = "s3://aws-jgp-ml-m00/inputs/221026-cherrypick-example")
+        project_name = "labeling-job-project01", 
+        s3_path = "s3://aws-ml-project01/inputs/221026-example-images")
 
 
     '''
@@ -22,7 +22,7 @@ if __name__ == '__main__':
     '''
 
     pascal2gt.run(
-        path_target_manifest = "./221026-cherrypick-example/output.manifest", 
-        path_source_xml_dir = "./221026-cherrypick-example",
-        path_project_yaml_file = "./project-files/m01.yaml"
+        path_target_manifest = "./221026-example-images/output.manifest", 
+        path_source_xml_dir = "./221026-example-images",
+        path_project_yaml_file = "./project-files/project01.yaml"
         )

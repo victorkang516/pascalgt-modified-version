@@ -1,0 +1,26 @@
+<annotation>
+  <folder>contamination</folder>
+  <filename>pill_ginseng_contamination_004.png</filename>
+  <path>C:\Temp\221026-example-images\contamination\pill_ginseng_contamination_004.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>632</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>contamination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>450</xmin>
+      <ymin>140</ymin>
+      <xmax>460</xmax>
+      <ymax>150</ymax>
+    </bndbox>
+  </object>
+</annotation>
